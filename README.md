@@ -2,3 +2,5 @@
 This is a repository for Lab12
 
 Jeff Bahns
+
+Ryan Yu
